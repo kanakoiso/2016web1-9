@@ -54,3 +54,7 @@ text-shadow: 0px 0px 5px white,
       #63B3D2 50%,
       #BFE5F2 );
 }
+
+.rotate{
+  transform: rotate(30deg);
+}
